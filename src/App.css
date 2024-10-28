@@ -1,0 +1,41 @@
+#root {
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+.card {
+  padding: 2em;
+}
+
+.server-name-box {
+  width: fit-content;
+  flex-basis: 100%;
+
+  display: grid;
+  justify-content: center;
+}
+
+.server-name-box > div {
+  border-color: rgb(80, 80, 80);
+  border-style: dashed;
+  border-width: 2px;
+
+  padding: 5px 50px;
+  width: fit-content;
+}
+
+.server-instance-list {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.my-footer {
+  position: fixed;
+  left: 0;
+  bottom: 0;
+  width: 100%;
+  text-align: center;
+  color: rgb(65, 65, 65);
+}

@@ -1,0 +1,85 @@
+{
+    "name": "MineMania",
+    "motd": "wa",
+    "uptime": 45245,
+    "servers": [
+        {
+            "name": "Server 1",
+            "players": [
+                {
+                    "name": "reddust9",
+                    "uuid": "70c1712d-f203-4062-a9bb-9f437d018bab",
+                    "ping": 101,
+                    "client": "MockData"
+                },
+                {
+                    "name": "reddust9 (2)",
+                    "uuid": "70c1712d-f203-4062-a9bb-9f437d018bab",
+                    "ping": 202,
+                    "client": "MockData"
+                }
+            ]
+        },
+        {
+            "name": "Server 2",
+            "players": [
+                {
+                    "name": "reddust9 (evil twin)",
+                    "uuid": "70c1712d-f203-4062-a9bb-9f437d018bab",
+                    "ping": 303,
+                    "client": "MockData"
+                }
+            ]
+        },
+        {
+            "name": "Server 3",
+            "players": [
+                {
+                    "name": "reddust9 (evil twin)",
+                    "uuid": "70c1712d-f203-4062-a9bb-9f437d018bab",
+                    "ping": 303,
+                    "client": "MockData"
+                }
+            ]
+        },
+        {
+            "name": "Server 4",
+            "players": [
+                {
+                    "name": "reddust9 (evil twin)",
+                    "uuid": "70c1712d-f203-4062-a9bb-9f437d018bab",
+                    "ping": 303,
+                    "client": "MockData"
+                }
+            ]
+        },
+        {
+            "name": "Server 5",
+            "players": [
+                {
+                    "name": "reddust9 (evil twin)",
+                    "uuid": "70c1712d-f203-4062-a9bb-9f437d018bab",
+                    "ping": 303,
+                    "client": "MockData"
+                }
+            ]
+        },
+        {
+            "name": "Server 6",
+            "players": [
+                {
+                    "name": "reddust9 (evil twin)",
+                    "uuid": "70c1712d-f203-4062-a9bb-9f437d018bab",
+                    "ping": 303,
+                    "client": "MockData"
+                },
+                {
+                    "name": "reddust9 (evil twin (again))",
+                    "uuid": "70c1712d-f203-4062-a9bb-9f437d018bab",
+                    "ping": 303,
+                    "client": "MockData"
+                }
+            ]
+        }
+    ]
+}
